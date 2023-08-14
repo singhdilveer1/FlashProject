@@ -1,5 +1,5 @@
 # FlashProject
-The aim of this project is to enable people to create Flash Player projectors for Window using Adobe's Standalone Flash Player 32.0.0.465.
+The aim of this project is to enable people to create Flash Player projectors for Windows using Adobe's Standalone Flash Player 32.0.0.465.
 This functionality was disabled by Adobe in the final versions for some reason.
 
 But they left a loophole and this easy-to-understand windows batch script leverages just that. 
