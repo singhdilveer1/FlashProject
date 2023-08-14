@@ -3,7 +3,7 @@ The aim of this project is to enable people to create Flash Player projectors fo
 This functionality was disabled by Adobe in the final versions for some reason.
 
 But they left a loophole and this easy-to-understand windows batch script leverages just that. 
-It's not the most elegant solution, but it's adequate for accomplishing our goals, preserving SWF files.
+It's not the most elegant solution, but it's adequate for accomplishing our main goal, preserving SWF files.
 
 ### Usage -
 - You can either drag-and-drop your shockwave file onto FlashProject.cmd or launch it directly.
