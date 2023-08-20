@@ -14,7 +14,7 @@ It's not the most elegant solution, but it's adequate for accomplishing our main
 _This repository contains unmodified Flash Player Standalone binaries - version 10.1.82.76 and 32.0.0.465_
 
 >Notice - Adobe Flash Player has reached EOL on December 31, 2020. Meaning it hasn't received any updates since then.
-Instead you should use alternatives that are being constantly updated. Here's one I love, [Ruffle](https://github.com/ruffle-rs/ruffle).
+You should consider using alternatives that are being constantly updated. Here's one I love, [Ruffle](https://github.com/ruffle-rs/ruffle).
 >
 
 >Flash Player Standalone is a relatively safe option to use, but I'm no security expert. If you are concerned about security, stick with an actively developed alternative.
